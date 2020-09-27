@@ -57,7 +57,7 @@ There are some noticeable differences and similarities in these two tables.First
 
 ### Execution Times of the Original and Refactored Script:
 
-Based on the below pictures, 
+Based on the below images, the execution times of refactored script is less than original script. Elapsed run time for the original code of table 2017 was 1.13 seconds and 1.17 seconds for table 2018, while the elapsed run time for refactored code of table 2017 is just 0.21 seconds and 0.18 seconds for table 2018.  
 
 ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2017%20.png)
 ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2018.png)
