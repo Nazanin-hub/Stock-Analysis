@@ -59,7 +59,7 @@ There are some noticeable differences and similarities in these two tables.First
 
 Based on the below pictures, 
 
-![]https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2017%20.png
+![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2017%20.png)
 
 ## Summary
 
