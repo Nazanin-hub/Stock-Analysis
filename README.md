@@ -1,15 +1,12 @@
 # Stock-Analysis
 
-
-# Kickstarting with Excel
-
 ## Overview of Project
 
-
+Helping Steve and his family to analyze stockdata. Steve's family want to invest all their money into Daqo New Energy Corporation. Steve is concerned about diversifying their fund. He wants to analyze a handful of green energy stocks in addition to Daqo's stock. He created an Excel file containing the stockdata. So, I helped him to analyze data by using Refactoring VBA code. VBA code automates the analyzes and refactoring code makes the VBA script run faster.
 
 ### Purpose
 
-
+Refactoring VBA Excel code to analyze stockdata
 
 ## Results
 
@@ -81,3 +78,5 @@ Based on the below images, the execution times of refactored script is less than
     4. It may introduce bugs.
     
 2-How do these pros and cons apply to refactoring the original VBA script?
+
+
