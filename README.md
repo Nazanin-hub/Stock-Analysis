@@ -139,7 +139,7 @@ Based on the below images:
 
        1. Refactored code performs the task much faster than the original VBA.
        2. Refactored code helps me to understand the original code better.
-       3. Refactored code helps me to split out long functions into more manageable bite.So, it makes my code clean and organized.
+       3. Refactored code helps me to split out long functions into more manageable bite. So, it makes my code clean and organized.
       
    - Disadvantages:
 
