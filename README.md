@@ -12,7 +12,7 @@ Refactoring VBA Excel code to analyze stockdata faster
 
 ### Stock Performance Between 2017 And 2018
 
-The below tables compares some stocks in terms of their total daily volumes and their yearly return in 2018. The total daily volumes column shows the total number of traded shares for each stock. The VBA code that I wrote to calculate the total daily volumes is as follows:
+The below tables compares some stocks in terms of their total daily volumes and their yearly return in 2017 and 2018. The total daily volumes column shows the total number of traded shares for each stock. The VBA code that I wrote to calculate the total daily volumes is as follows:
 
      Dim tickerindex As Single
        tickerindex = 0
