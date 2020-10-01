@@ -81,7 +81,7 @@ Based on the below images:
  - The elapsed run time for the original code of table 2017 was 1.13 seconds.
  - The elapsed run time for the original code of table 2018 was 1.13 seconds. 
  - The elapsed run time for the refactored code of table 2017 is just 0.21 seconds. 
- - The elapsed run time for the refactored code of table 2018 is just 0.21 seconds. 
+ - The elapsed run time for the refactored code of table 2018 is just 0.18 seconds. 
 
 ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2017%20.png)
 ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2018.png)
