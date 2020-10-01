@@ -66,11 +66,11 @@ The left above table indicates the total daily volume and the yearly return perc
 
 #### Comparison of Stocks in 2017 and 2018:
 
-There are some noticeable differences and similarities in these two tables.First, most of the stocks have the positive yearly return compared to 2018. The highest percentage of the yearly return in 2018 is 84% while, in 2017 is about 199.4%. Also, the highest total number of traded shares in 2017 is about 782,187,000 while, the highest one in 2018 belongs to ENPH stock (607,473,500). Based on the data of these two tables,ENPH stock, on average, could be one of the most profitable stocks.
+There are some noticeable differences and similarities between these two tables. First, most of the stocks in 2017 have a positive yearly return compared to 2018. The highest percentage of the yearly return in 2018 is 84%, while, in 2017 is about 199.4%. Also, the highest total number of traded shares in 2017 is about 782,187,000, while, the highest one in 2018 belongs to ENPH stock (607,473,500). Based on the data of these two tables, ENPH stock, on average, could be one of the most profitable stocks.
 
 ### Execution Times of the Original and Refactored Script:
 
-Based on the below images, the execution times of refactored script is less than original script. Elapsed run time for the original code of table 2017 was 1.13 seconds and 1.17 seconds for table 2018, while the elapsed run time for refactored code of table 2017 is just 0.21 seconds and 0.18 seconds for table 2018.  
+Based on the below images, the execution times of the refactored script is less than the original script. The elapsed run time for the original code of table 2017 was 1.13 seconds and 1.17 seconds for table 2018, while the elapsed run time for the refactored code of table 2017 is just 0.21 seconds and 0.18 seconds for table 2018.  
 
 ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2017%20.png)
 ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/VBA_Challenge_2018.png)
@@ -81,10 +81,10 @@ Based on the below images, the execution times of refactored script is less than
 
 - Advantages:
 
-    1. Refactoring helps programming faster
-    2. Refactoring helps finding bugs
-    3. Refactoring makes software easier to understand
-    4. Refactoring makes the code clean and organized
+    1. Refactoring helps programming faster.
+    2. Refactoring helps finding bugs.
+    3. Refactoring makes software easier to understand.
+    4. Refactoring makes the code clean and organized.
     
 - Disdvantages:
 
