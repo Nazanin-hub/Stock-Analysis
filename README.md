@@ -81,8 +81,8 @@ The return columns in the below tabels show the percentage increase or decrease 
      Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
      
     
- ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/All%20stocks%20table%20-2017.png)
- ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/All%20stocks%20table%20-2018.png)
+ ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/Resources/VBA_Challenge_2017%20.png)
+ ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/Resources/VBA_Challenge_2018%20.png)
     
 #### Stock Analysis in 2018:   
     
