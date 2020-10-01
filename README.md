@@ -58,11 +58,11 @@ The return columns in the below tabels show the percentage increase or decrease 
     
 #### Stock Analysis in 2018:   
     
-As the right above table shows, just two stocks (ENPH and RUN) have a positive yearly return. It is clear that ENPH has the most total number of traded shares. Also, the return percentage of this stock is the highest one(81.9%). It means that if someone invests in ENPH, his/her investment will increase by 81.9% by the end of 2018. The second stock in terms of the total daily volumes is SPWR, while the return percentage of SPWR is negative. The best option for investment is ENPH or RUN. Because both are among the highest stocks in terms of the total number of traded shares and the percentage of yearly return.  
+As the above right table shows, just two stocks (ENPH and RUN) have a positive yearly return. It is clear that ENPH has the most total number of traded shares. Also, the return percentage of this stock is the highest one (81.9%). It means that if someone invests in ENPH, his/her investment will increase by 81.9% by the end of 2018. The second stock in terms of the total daily volumes is SPWR, while the return percentage of SPWR is negative. The best option for investment is ENPH or RUN. Because both are among the highest stocks in terms of the total number of traded shares and the percentage of yearly return.  
 
 #### Stock Analysis in 2017:
 
-The left above table indicates the total daily volume and the yearly return percentage of stocks in 2017. In terms of traded shares, SPWR has the highest number, but the percentage of the yearly return for this stock is about 23%. Although, DQ has the lowest number of traded shares, it has the highest percentage of increasement in price from the beginning of the 2017 to the end of the 2017. All the stocks have the positive yearly return excep TERP stock. If someone wants to select one of the stocks for investmen, he/she should select the one that has the highest total number of traded shares and the yearly return.So, FSLR and SEDQ could be the best selection. 
+The above left table indicates the total daily volume and the yearly return percentage of stocks in 2017. In terms of traded shares, SPWR has the highest number, but the percentage of the yearly return for this stock is about 23%. Although, DQ has the lowest number of traded shares, it has the highest percentage of increase in price from the beginning of the 2017 to the end of the 2017. All the stocks have the positive yearly return except TERP stock. If someone wants to select one of the stocks for investment, he/she should select the one that has the highest total number of traded shares and the yearly return. So, FSLR and SEDQ could be the best options. 
 
 #### Comparison of Stocks in 2017 and 2018:
 
@@ -92,12 +92,12 @@ Based on the below images:
 
 - Advantages:
 
-    1. Refactoring helps programming faster.
+    1. Refactoring helps programming faster and improves performance.
     2. Refactoring helps finding bugs.
     3. Refactoring makes software easier to understand.
     4. Refactoring makes the code clean and organized.
-    5. Refactoring improves performance.
-    
+    5. Refactoring removes redundant, unused code and comments.
+   
 - Disdvantages:
 
     1. It's risky when the application is big.
@@ -107,35 +107,14 @@ Based on the below images:
     
 2-How do these pros and cons apply to refactoring the original VBA script?
 
-- Original VBA script:
-
    - Advantages:
 
-       1. 
-       2. 
-       3. 
-       4.  
+       1. Refactored code performs the task much faster than the original VBA.
+       2. Refactored code helps me to understand the original code better.
+       3. Refactored code helps me to split out long functions into more manageable bite.So, it makes my code clean and organized.
       
    - Disadvantages:
 
-       1. 
-       2. 
-       3. 
-       4. 
-      
-- Refactored VBA script:
-
-   - Advantages:
-
-       1. Refactored VBA performs the task much faster than the original VBA.
-       2. Removes redundant, unused code and comments.
-       3. Combines and dispose "Like" or "Similar" code.
-       4. Splitting out long functions into more manageable bite.
-       5. Better class and function cohesion.
+       1. At first the understanding the new code was difficult, but after working with that, it was more easier than original code.
+       2. refactored code introduce some new bugs, but I could debug it in a short time. 
     
-   - Disdvantages:
-
-       1. 
-       2. 
-       3. 
-       4. 
