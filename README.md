@@ -14,41 +14,69 @@ Refactoring VBA Excel code to analyze stockdata faster
 
 The below tables compares some stocks in terms of their total daily volumes and their yearly return in 2017 and 2018. The total daily volumes columns show the total number of traded shares for each stock. The VBA code that I wrote to calculate the total daily volumes is as follows:
 
+     '1a) Create a ticker Index
      Dim tickerindex As Single
        tickerindex = 0
        
+    '1b) Create output array   
     Dim tickerVolumes(12) As Long
+    
+    ''2a) Create a for loop to initialize the tickerVolumes to zero.
     For i = 0 To 11
        tickerVolumes(i) = 0
-     Next i
-      
+     Next i 
+     
      tickerindex = 0
+     
+     ''2b) Loop over all the rows in the spreadsheet.
      For i = 2 To RowCount
+     
+     '3a) Increase volume for current ticker
        tickerVolumes(tickerindex) = tickerVolumes(tickerindex) + Cells(i, 8).Value
        
+     '4) Loop through the arrays to output the Ticker and Total Daily Volume.  
      For i = 0 To 11
        Cells(4 + i, 1).Value = tickers(i)
        Cells(4 + i, 2).Value = tickerVolumes(i)
  
 The return columns in the below tabels show the percentage increase or decrease in price from the begining of the year to the end of the year. In other words, how much your investment grow or shrunk by the end of the year. I wrote the following VBA code to calculate the yearly return percentage:
 
+     '1a) Create a ticker Index
      Dim tickerindex As Single
        tickerindex = 0
+       
+    '1b) Create output array     
     Dim tickerStartingPrices(12) As Single
     Dim tickerEndingPrices(12) As Single
     
+    ''2a) Create a for loop to initialize the tickerVolumes to zero.
+    For i = 0 To 11
+       tickerVolumes(i) = 0
+     Next i 
+     
+     tickerindex = 0
+     
+    ''2b) Loop over all the rows in the spreadsheet.
     For i = 2 To RowCount
+    
+        '3b) Check if the current row is the first row with the selected tickerIndex.
+        'If  Then
        If Cells(i - 1, 1).Value <> tickers(tickerindex) And Cells(i, 1).Value = tickers(tickerindex) Then
 
                tickerStartingPrices(tickerindex) = Cells(i, 6).Value
 
        End If
+       
+      '3c) check if the current row is the last row with the selected ticker
+        'If  Then
+             
       If Cells(i + 1, 1).Value <> tickers(tickerindex) And Cells(i, 1).Value = tickers(tickerindex) Then
 
               tickerEndingPrices(tickerindex) = Cells(i, 6).Value
 
       End If  
       
+    '4) Loop through the arrays to output the yearly return.  
     For i = 0 To 11
      Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
      
