@@ -25,7 +25,8 @@ The below table compares some stocks in terms of their total daily volumes and t
      tickerVolumes(tickerindex) = tickerVolumes(tickerindex) + Cells(i, 8).Value
      
  ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/All%20stocks%20table%20-2017.png)
-
+ ![](https://github.com/Nazanin-hub/Stock-Analysis/blob/master/All%20stocks%20table%20-2018.png)
+ 
 The return column shows the percentage increase or decrease in price from the begining of the year to the end of the year. In other words, how much your investment grow or shrunk by the end of the year. I wrote the following code to calculate the yearly return percentage:
 
     Dim tickerStartingPrices(12) As Single
