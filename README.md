@@ -12,7 +12,7 @@ Refactoring VBA Excel code to analyze stockdata faster
 
 ### Stock Performance Between 2017 And 2018
 
-The below tables compares some stocks in terms of their total daily volumes and their yearly return in 2017 and 2018. The total daily volumes column shows the total number of traded shares for each stock. The VBA code that I wrote to calculate the total daily volumes is as follows:
+The below tables compares some stocks in terms of their total daily volumes and their yearly return in 2017 and 2018. The total daily volumes columns show the total number of traded shares for each stock. The VBA code that I wrote to calculate the total daily volumes is as follows:
 
      Dim tickerindex As Single
        tickerindex = 0
@@ -70,7 +70,7 @@ Some noticeable differences between these two tables:
 
    - Most of the stocks in 2017 have a positive yearly return compared to 2018. 
    - The highest percentage of the yearly return in 2018 is 84%, while, in 2017 is about 199.4%. 
-   - The highest total number of traded shares in 2017 is about 782,187,000, while, the highest one in 2018 belongs to ENPH stock (607,473,500). 
+   - The highest total number of traded shares in 2017 is about 782,187,000, while, the highest one in 2018 belongs to ENPH stock. 
   
 Based on the data of these two tables, ENPH stock, on average, could be one of the most profitable stocks.
 
