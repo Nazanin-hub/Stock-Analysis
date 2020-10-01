@@ -96,6 +96,7 @@ Based on the below images:
     2. Refactoring helps finding bugs.
     3. Refactoring makes software easier to understand.
     4. Refactoring makes the code clean and organized.
+    5. Refactoring improves performance.
     
 - Disdvantages:
 
@@ -127,9 +128,10 @@ Based on the below images:
    - Advantages:
 
        1. Refactored VBA performs the task much faster than the original VBA.
-       2. 
-       3. 
-       4. 
+       2. Removes redundant, unused code and comments.
+       3. Combines and dispose "Like" or "Similar" code.
+       4. Splitting out long functions into more manageable bite.
+       5. Better class and function cohesion.
     
    - Disdvantages:
 
