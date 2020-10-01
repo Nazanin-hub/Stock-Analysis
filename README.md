@@ -143,6 +143,6 @@ Based on the below images:
       
    - Disadvantages:
 
-       1. At first the understanding the new code was difficult, but after working with that, it was more easier than original code.
-       2. refactored code introduce some new bugs, but I could debug it in a short time. 
+       1. At first, understanding the new code was difficult, but after working with that, it was easier than the original code.
+       2. Refactored code introduces some new bugs, but I could debug it in a short time.
     
