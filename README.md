@@ -106,4 +106,34 @@ Based on the below images:
     
 2-How do these pros and cons apply to refactoring the original VBA script?
 
+- Original VBA script:
 
+  - Advantages:
+
+      1. 
+      2. 
+      3. 
+      4.  
+      
+  - Disadvantages:
+
+      1. 
+      2. 
+      3. 
+      4. 
+      
+- Refactored VBA script:
+
+  - Advantages:
+
+    1. 
+    2. 
+    3. 
+    4. 
+    
+  - Disdvantages:
+
+    1. 
+    2. 
+    3. 
+    4. 
