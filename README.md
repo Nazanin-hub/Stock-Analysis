@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-Helping Steve and his family to analyze stockdata. Steve's family want to invest all their money into Daqo New Energy Corporation. Steve is concerned about diversifying their fund. He wants to analyze a handful of green energy stocks in addition to Daqo's stock. He created an Excel file containing the stockdata. So, I helped him to analyze data by using Refactoring VBA code. VBA code automates the analyzes and refactoring code makes the VBA script run faster.
+This project is about Helping Steve and his family to analyze stockdata. Steve's family want to invest all their money into Daqo New Energy Corporation. Steve is concerned about diversifying their fund. He wants to analyze a handful of green energy stocks in addition to Daqo's stock. He created an Excel file containing the stockdata. So, I helped him to analyze data by refactoring the provided VBA code. The VBA code automates the analysis and refactoring makes the VBA script run faster.
 
 ### Purpose
 
-Refactoring VBA Excel code to analyze stockdata
+Refactoring VBA Excel code to analyze stockdata faster
 
 ## Results
 
