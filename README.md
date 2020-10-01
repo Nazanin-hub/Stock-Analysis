@@ -108,32 +108,32 @@ Based on the below images:
 
 - Original VBA script:
 
-  - Advantages:
+   - Advantages:
 
-      1. 
-      2. 
-      3. 
-      4.  
+       1. 
+       2. 
+       3. 
+       4.  
       
-  - Disadvantages:
+   - Disadvantages:
 
-      1. 
-      2. 
-      3. 
-      4. 
+       1. 
+       2. 
+       3. 
+       4. 
       
 - Refactored VBA script:
 
-  - Advantages:
+   - Advantages:
 
-    1. 
-    2. 
-    3. 
-    4. 
+       1. Refactored VBA performs the task much faster than the original VBA.
+       2. 
+       3. 
+       4. 
     
-  - Disdvantages:
+   - Disdvantages:
 
-    1. 
-    2. 
-    3. 
-    4. 
+       1. 
+       2. 
+       3. 
+       4. 
