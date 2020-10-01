@@ -30,7 +30,7 @@ The below tables compares some stocks in terms of their total daily volumes and 
        Cells(4 + i, 1).Value = tickers(i)
        Cells(4 + i, 2).Value = tickerVolumes(i)
  
-The return column shows the percentage increase or decrease in price from the begining of the year to the end of the year. In other words, how much your investment grow or shrunk by the end of the year. I wrote the following VBA code to calculate the yearly return percentage:
+The return columns in the below tabels show the percentage increase or decrease in price from the begining of the year to the end of the year. In other words, how much your investment grow or shrunk by the end of the year. I wrote the following VBA code to calculate the yearly return percentage:
 
      Dim tickerindex As Single
        tickerindex = 0
