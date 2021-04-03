@@ -8,7 +8,7 @@ This project is about Helping Steve and his family to analyze stockdata. Steve's
 
 Refactoring VBA Excel code to analyze stockdata faster
 
-### Resources
+## Resources
 
   - Data Source: green_stocks.xlsx
   - Software: Excel, VBA
